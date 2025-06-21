@@ -11,3 +11,4 @@ wheels/
 
 NEXT_SENIORITY_LIST.pdf
 candidates.db
+.env
