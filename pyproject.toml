@@ -1,0 +1,17 @@
+[project]
+name = "sqlllmproject"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "google-generativeai>=0.8.5",
+    "ipykernel>=6.29.5",
+    "langchain>=0.3.26",
+    "langchain-core>=0.3.66",
+    "langchain-groq>=0.3.2",
+    "pdfplumber>=0.11.7",
+    "python-dotenv>=1.1.0",
+    "streamlit>=1.46.0",
+    "tabula>=1.0.5",
+]
